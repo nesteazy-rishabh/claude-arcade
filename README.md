@@ -22,6 +22,8 @@ Inside Claude Code, run:
 /plugin install claude-arcade
 ```
 
+Then restart your Claude Code session for the skills to load.
+
 Or test locally:
 
 ```bash
