@@ -1,13 +1,13 @@
 {
+  "name": "claude-arcade",
+  "owner": {
+    "name": "Rishabh Singh"
+  },
   "plugins": [
     {
       "name": "claude-arcade",
-      "version": "1.0.0",
       "description": "Retro terminal games for Claude Code — play while you wait for builds, tests, and long-running tasks.",
-      "source": {
-        "type": "git",
-        "url": "https://github.com/nesteazy-rishabh/claude-arcade.git"
-      }
+      "source": "."
     }
   ]
 }

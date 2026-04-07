@@ -15,8 +15,11 @@ Retro terminal games for Claude Code. Play while you wait for builds, tests, and
 
 ## Install
 
-```bash
-claude plugin install claude-arcade
+Inside Claude Code, run:
+
+```
+/plugin marketplace add nesteazy-rishabh/claude-arcade
+/plugin install claude-arcade
 ```
 
 Or test locally:
