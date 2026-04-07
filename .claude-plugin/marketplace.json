@@ -8,11 +8,7 @@
     {
       "name": "claude-arcade",
       "description": "Retro terminal games for Claude Code — play while you wait for builds, tests, and long-running tasks.",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/nesteazy-rishabh/claude-arcade.git",
-        "sha": "fdfe9b8ab9cc32c403578a16333d7fb4a4ea224b"
-      },
+      "source": "./",
       "category": "productivity",
       "homepage": "https://github.com/nesteazy-rishabh/claude-arcade"
     }
