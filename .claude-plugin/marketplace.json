@@ -1,4 +1,5 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "claude-arcade",
   "owner": {
     "name": "Rishabh Singh"
@@ -7,7 +8,13 @@
     {
       "name": "claude-arcade",
       "description": "Retro terminal games for Claude Code — play while you wait for builds, tests, and long-running tasks.",
-      "source": "."
+      "source": {
+        "source": "url",
+        "url": "https://github.com/nesteazy-rishabh/claude-arcade.git",
+        "sha": "2ca939df1eb0150b3481ae431f111ad8c2365dab"
+      },
+      "category": "productivity",
+      "homepage": "https://github.com/nesteazy-rishabh/claude-arcade"
     }
   ]
 }
