@@ -1,0 +1,10 @@
+{
+  "name": "claude-arcade",
+  "description": "Retro terminal games to play while waiting for long-running processes in Claude Code. Kill time with Tic-Tac-Toe, Minesweeper, Hangman, Wordle, 2048, and Chess.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Rishabh Singh"
+  },
+  "repository": "https://github.com/rishabhsingh/claude-arcade",
+  "license": "MIT"
+}
